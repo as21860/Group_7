@@ -7,7 +7,7 @@
 1. Leonard, Sean [@sleonard27] (https://github.com/sleonard27)
 2. Sadiku, Agona [@as21860] (https://github.com/as21860)
 3. Beaucejour, Ann [@acb77680] (https://github.com/acb77680)
-4. Penso, Felipe (https://github.com/FelipePenso)
+4.  Penso, Felipe (https://github.com/FelipePenso)
 
 
 ## Problem Description:
@@ -37,7 +37,6 @@ Managers can identify which food items are doing well and which are not using th
 ![Query 2](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query2.png)
 Managers can get generalized insight into customer behavior and operational efficiency. By examining these metrics managers can identify opportunities to budget their menu items, manage their inventory, and tweak prices depending on the feedback that they get.
 
-
 3. Query 3 displays the number of orders, average amount spent per order, and total revenue of each table size grouped by table customer quantity
 ![Query 3](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query2.png)
 This query helps managers optimize seating by identifying the most profitable table sizes, allowing them to make data-driven decisions. By analyzing spending habits, they can adjust menu pricing and create targeted promotions to encourage higher spending per table. To add ensuring the right number of employees are available during peak times can help enhance customer service and maximize revenue.
@@ -61,7 +60,9 @@ This query provides a clear view of order distribution, staff performance, and r
 From a managerial perspective, this query allows them to understand their inventory and base inventory planning off of it. It also allows them to run marketing campaigns for the items they haven’t sold much of and still have stock in.
 
 8. Query 8 displays the most popular drink items based on the quantity ordered, showing only drinks that have been ordered more than 10 times.
+   
 ![Query 8](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query8.png)
+
 This query helps managers identify the most popular drink items based on sales data. This can help them in determining how to manage their inventory and which flavors to keep in stock if they sell out quickly.
 
 9. Query 9 lists the servers that earn above the average salary.
